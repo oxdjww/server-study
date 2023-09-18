@@ -36,5 +36,7 @@
 <h4>UDP Socket</h4>
 <p>비연결 지향</p>
 <h4>Socket Programming Practice</h4>
+  <img width="1440" alt="socket" src="https://github.com/oxdjww/server-study/assets/102507306/0ce590d6-392b-4766-ba48-907a908723c0">
+
 <p><a href="https://github.com/oxdjww/server-study/tree/main/Ch01.%20About%20Server/src">socket_programming_github.io</a></p>
 </div>
