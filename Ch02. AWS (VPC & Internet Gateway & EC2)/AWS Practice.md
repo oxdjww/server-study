@@ -1,4 +1,4 @@
-<img width="260" alt="1" src="https://github.com/oxdjww/server-study/assets/102507306/1cef5786-69fd-4513-bde4-dbca1a8944ce"><img width="441" alt="12" src="https://github.com/oxdjww/server-study/assets/102507306/4356e6f1-2922-4be1-b6e7-ebfe0f6efe04"><img width="1385" alt="11" src="https://github.com/oxdjww/server-study/assets/102507306/e3cf8109-6c2e-4c80-808d-ae53604e97e9"><img width="237" alt="5" src="https://github.com/oxdjww/server-study/assets/102507306/0e5b7256-0ac5-4235-a631-4d0f2a06bb82"># Ch02. AWS (VPC & Internet Gateway & EC2) 실습
+# Ch02. AWS (VPC & Internet Gateway & EC2) 실습
 
 ## Previous Post
 
