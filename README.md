@@ -1,6 +1,8 @@
 # server-study
 ## umc 5th server study log
-![umcimg](https://github.com/oxdjww/server-study/assets/102507306/b1c47df3-61a8-4522-842f-058b7299b9bf)
+![umcimg](
+https://github.com/oxdjww/server-study/assets/102507306/b1c47df3-61a8-4522-842f-058b7299b9bf?width=300&height=200
+)
 
 ### Contents
 Ch01. 서버란 무엇인가(소켓&멀티 프로세스) <br>
