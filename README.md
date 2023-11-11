@@ -20,6 +20,10 @@ Ch04. DATABASE 설계 & AWS RDS 설정
   
 Ch05. 실전 SQL - 어떤 Query를 작성해야 할까? <br>
 Ch06. API URL의 설계 & 프로젝트 세팅 <br>
+Ch07. JPA를 통한 엔티티 설계, 매핑 & 프로젝트 파일 구조 이해
+Ch08. API 응답 통일 & 에러 핸들러
+Ch09. API & Swagger & Annotation
+Ch10. API & Paging
 
 ### commit message convention
 - `add` ： 파일 추가
