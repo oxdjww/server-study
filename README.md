@@ -26,9 +26,11 @@
 - [Posting](https://oxdjww.tistory.com/entry/Ch06-API-URL-Project-Configuration)
 
 `Ch07. JPA를 통한 엔티티 설계, 매핑 & 프로젝트 파일 구조 이해`
-<br>
+- [Practice](https://github.com/oxdjww/umc5th-spring-practice/tree/week7)
+
 `Ch08. API 응답 통일 & 에러 핸들러`
-<br>
+- [Practice](https://github.com/oxdjww/umc5th-spring-practice/tree/week8)
+
 `Ch09. API & Swagger & Annotation`
 <br>
 `Ch10. API & Paging`
