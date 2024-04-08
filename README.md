@@ -33,6 +33,7 @@
 
 `Ch09. API & Swagger & Annotation`
 - [Practice](https://github.com/oxdjww/umc5th-spring-practice/tree/week9)
-<br>
+
 `Ch10. API & Paging`
-<br>
+- [Practice](https://github.com/oxdjww/umc5th-spring-practice/tree/week10)
+
