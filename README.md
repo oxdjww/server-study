@@ -1,6 +1,6 @@
-# umc 5th server study log
+# SSUMC 5th Server Study Log
 
-<img width="700" alt="image" src="https://github.com/oxdjww/server-study/assets/102507306/f7488759-e0a6-4bf7-bd7d-4eb890aaf44c">
+![umc검은로고3(긴거)](https://github.com/SSUMC-5th-Server/taetae/assets/102507306/cff4bb90-2ba1-4a94-a14d-fa0ec4b8070a)
 
 
 ### Contents
