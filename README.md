@@ -1,3 +1,8 @@
+## SSUMC 5th Server Study Log
+
+![umc검은로고3(긴거)](https://github.com/SSUMC-5th-Server/taetae/assets/102507306/e29f44f8-85ea-4a1e-867d-11f427e36cbb)
+
+
 | Chapter | Description | Links |
 |---------|-------------|-------|
 | Ch01. 서버란 무엇인가(소켓&멀티 프로세스) | Overview of servers, sockets, and multi-processing | [Posting](https://oxdjww.tistory.com/entry/Ch01-%EC%84%9C%EB%B2%84%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%86%8C%EC%BC%93%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4) |
