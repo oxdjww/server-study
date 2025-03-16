@@ -2,6 +2,9 @@
 
 ![umc검은로고3(긴거)](https://github.com/SSUMC-5th-Server/taetae/assets/102507306/e29f44f8-85ea-4a1e-867d-11f427e36cbb)
 
+`2023.09 - 2023.12`
+
+## Overview
 
 | Chapter | Description | Links |
 |---------|-------------|-------|
